@@ -101,6 +101,6 @@
 
 *"Building things that bridge hardware and intelligence."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=varsha-valavan&color=1A4F8A&style=flat-square)
+
 
 </div>
