@@ -19,6 +19,7 @@ Cybersecurity, Networking, and Software Development.*
 -   🏆 **NHAI Hackathon 2026 Participant**
 
 A final-year Electronics and Communication Engineering student with a solid foundation in electronics, embedded systems, communication engineering, and software development. Skilled in applying engineering principles to design, develop, and optimize practical solutions across hardware and software domains. Strong interest in embedded systems, industrial automation, semiconductor technologies, communication systems, and intelligent engineering applications. A quick learner and collaborative problem solver, committed to continuous improvement and delivering reliable engineering solutions in fast-paced technical environments.
+
 ------------------------------------------------------------------------
 
 # 🛠️ Core Competencies
