@@ -1,105 +1,178 @@
-<div align="center">
-
 # Hi, I'm Varsha V 👋
-### Electronics & Communication Engineer · VIT Chennai
 
-*Final year ECE student passionate about quantum systems, IoT, embedded security, and ML at the edge.*
+### Electronics & Communication Engineering Student \| VIT Chennai
+
+*Passionate about Artificial Intelligence, Embedded Systems, IoT,
+Cybersecurity, Networking, and Software Development.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D2545?style=for-the-badge&logo=netlify&logoColor=white)](https://varshav-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-v-37a09a28b)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshavalavan@gmail.com)
 
-</div>
+------------------------------------------------------------------------
 
----
+# 🚀 About Me
 
-## 🚀 About Me
+-   🎓 **B.Tech. Electronics & Communication Engineering** --- VIT
+    Chennai
+-   🏆 **Smart India Hackathon 2025 Participant**
+-   🏆 **NHAI Hackathon 2026 Participant**
 
-- 🎓 **B.Tech. Electronics and Communication Engineering** — VIT Chennai (Final Year)
-- 🏆 **Smart India Hackathon 2025** 
-- 🔬 Building at the intersection of **hardware + intelligence**
-- 🌱 Final year ECE student with a passion for quantum systems, IoT, embedded security, and ML at the edge.
-- 📫 Reach me at **varshavalavan@gmail.com**
+A final-year Electronics and Communication Engineering student with a
+strong foundation in electronics, programming, embedded systems,
+networking, and artificial intelligence. Passionate about building
+innovative, reliable, and scalable solutions by combining hardware and
+software technologies. Experienced in developing project-based solutions
+across AI, IoT, cybersecurity, computer vision, communication systems,
+and web technologies, with a continuous focus on learning,
+problem-solving, and engineering excellence.
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+# 🛠️ Core Competencies
 
-**Languages**
+## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+-   Python
+-   Java
+-   Embedded C
 
-**Embedded & IoT**
+## ⚙️ Simulation & Design Tools
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+-   MATLAB
+-   LTspice
+-   Cadence Virtuoso
+-   OptiSystem
+-   Keil Studio
+-   ModelSim
 
-**ML & Data**
+## 🌐 Networking & Systems
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+-   Cisco Packet Tracer
+-   NS-3 (Network Simulator 3)
+-   NetSim
 
-**Simulation & Design**
+## 🔐 Cybersecurity & Cryptography
 
-![LTspice](https://img.shields.io/badge/LTspice-900000?style=flat-square&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-FF6800?style=flat-square&logoColor=white)
-![NS-3](https://img.shields.io/badge/NS--3-0078D4?style=flat-square&logoColor=white)
-![OptiSystem](https://img.shields.io/badge/OptiSystem-6A0DAD?style=flat-square&logoColor=white)
+-   AES-256 Encryption
+-   Steganography
+-   Secure IoT Systems
+-   TRNG-Based Security
 
----
+## 🤖 Machine Learning & Artificial Intelligence
 
-## 🔥 Featured Projects
+-   Scikit-learn
+-   OpenCV
+-   CNN
+-   TinyML
+-   Model Training & Optimization
 
-| # | Project | Domain | Highlights |
-|---|---------|--------|------------|
-| 🏆 | **Smart Helmet for Two-Wheeler Safety** | IoT · Embedded | SIH 2025 · ESP32 · GPS · BLE · Crash Detection |
-| 🔐 | **Quantum-Inspired Steganographic System** | Security · IoT | TRNG · AES-256 · Timing Steganography · Flask Dashboard |
-| ⚛️ | **Photonic Logic Gates & Quantum Multiplier** | Photonics · Quantum | MZI-SOA · 9-qubit PennyLane · 100% accuracy |
-| 📡 | **RIS Reflection Design for Vehicular Platoon** | mmWave · Comms | Monte Carlo · Semidefinite Relaxation · SNR Optimization |
-| 🌐 | **SDN-Based Load-Aware Routing** | Networking | NS-3 · Mininet · Ryu · 28% throughput gain |
-| 🧠 | **Parkinson's Disease Detection** | ML · Embedded | STM32 · TinyML · 94.3% accuracy |
-| 🔊 | **Audio Plexus Encryption via AES** | Signal Security | MATLAB · QPSK-OFDM · SNR > 40dB |
-| ⚡ | **Wireless Sensor Network — Transformer Monitoring** | IoT · Power | 99.2% uptime · <1s fault alert |
-| 🤖 | **ESP8266 Automated Conveyor System** | Embedded · IoT | MQTT · Servo Control · 40% efficiency gain |
-| 👁️ | **Face Recognition using PCA & ANN** | ML · CV | 450 images · 9 subjects · k=30 eigenfaces |
+## ☁️ Cloud, Web & Development Tools
 
-> 🔗 Full project details → [varshav-portfolio.netlify.app](https://varshav-portfolio.netlify.app/)
+-   AWS
+-   Flask
+-   Git
+-   GitHub
+-   Vercel
+-   Tableau
+-   Power BI
 
----
+------------------------------------------------------------------------
 
-## 📜 Certifications
+# 🚀 Featured Projects
 
-- 🏦 JPMorgan Chase — Software Engineering Job Simulation
-- ✈️ GE Aerospace — Electrical Engineering Job Simulation
-- 🔒 Deloitte — Cyber Job Simulation
-- 📊 Tata — Data Visualisation with Effective Insights
-- ⚙️ Siemens — Operations Industrial Engineer Simulation
-- 📈 Deloitte — Data Analytics Job Simulation
-- ☁️ Google Cloud — Introduction to Generative AI Studio
-- 🐍 LinkedIn Learning — Python Quick Start
+-   **DataLake FaceAuth (NHAI Hackathon 2026)** -- CNN-based facial
+    recognition, liveness detection, AES-256 secured offline
+    authentication with AWS synchronization.
+-   **Smart Helmet for Two-Wheeler Safety (SIH 2025)** -- IoT helmet
+    with alcohol detection, crash sensing, GPS tracking and BLE
+    connectivity.
+-   **Photonic Logic Gates & Quantum Digital Circuits** -- MZI-SOA
+    photonic logic gates with PennyLane quantum MUX and multiplier.
+-   **Quantum-Inspired Steganographic Communication System** -- ESP32-S3
+    secure communication using TRNG, AES and Flask dashboard.
+-   **Detection & Classification of Parkinson's Disease** -- TinyML
+    tremor classification on STM32 with dashboards.
+-   **Face Recognition using PCA & ANN** -- Eigenface-based recognition
+    using PCA and ANN.
+-   **Robust RIS Reflection Design for Vehicular Platoon
+    Communications**
+-   **SDN-Based Load-Aware Routing vs Static Routing**
+-   **Audio Plexus Encryption via AES using MATLAB**
+-   **Wireless Sensor Network for Transformer Monitoring**
+-   **ESP8266-Based Automated Conveyor System**
+-   **EcoTrack -- Carbon Footprint Awareness Platform**
 
----
+------------------------------------------------------------------------
 
-## 💼 Experience
+# 🏅 Certifications
 
-**Internship Studio** · AI Intern *(Feb 2026 – Mar 2026)*
-> Built face recognition system with PCA + ANN using Python, OpenCV, Scikit-Learn
+-   AWS Certified Developer -- Associate Certification --- Infosys
+    Springboard
+-   Google Prompting Essentials --- Google (Coursera)
+-   Google AI Essentials --- Google (Coursera)
+-   Data Science with Python --- Infosys Springboard
+-   Cyber Job Simulation --- Deloitte (Forage)
+-   Data Analytics Job Simulation --- Deloitte (Forage)
+-   Electrical Engineering Job Simulation --- GE Aerospace (Forage)
+-   Introduction to Generative AI Studio --- Google Cloud
+-   Software Engineering Job Simulation --- JPMorgan Chase &
+    Co. (Forage)
+-   Data Visualisation: Empowering Business with Effective Insights ---
+    Tata (Forage)
+-   Artificial Intelligence Internship --- Internship Studio
+-   Internship Common Aptitude Test --- Internship Studio
+-   Robotics and Controls Job Simulation --- Johnson & Johnson MedTech
+-   Internship Training Certificate --- Kyungshin Industrial Motherson
+    Pvt. Ltd.
+-   TCS iON Career Edge -- Young Professional
 
-**Kyungshin Industrial Motherson** · Automotive Electronics Intern *(Jun 2025 – Jul 2025)*
-> ESD protocols, ICT/FCT fault analysis, quality control in automotive electronics manufacturing
+------------------------------------------------------------------------
 
----
+# 💼 Experience
 
-<div align="center">
+## Artificial Intelligence Intern --- Internship Studio
 
-*"Building things that bridge hardware and intelligence."*
+-   Built AI and computer vision applications using Python, OpenCV, PCA
+    and ANN.
 
+## Automotive Electronics Intern --- Kyungshin Industrial Motherson Pvt. Ltd.
 
+-   Worked on automotive electronics manufacturing, ICT/FCT testing, PCB
+    inspection and quality control.
 
-</div>
+------------------------------------------------------------------------
+
+# 📈 GitHub Statistics
+
+``` markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varsha-valavan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-valavan&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=varsha-valavan&theme=tokyonight&hide_border=true)
+```
+
+------------------------------------------------------------------------
+
+# 🌱 Currently Exploring
+
+-   Artificial Intelligence
+-   Embedded Systems
+-   Cybersecurity
+-   Edge Computing
+-   Computer Vision
+-   Networking
+-   Cloud Technologies
+
+------------------------------------------------------------------------
+
+# 📫 Connect With Me
+
+-   📧 Email: **varshavalavan@gmail.com**
+-   💼 LinkedIn: https://www.linkedin.com/in/varsha-v-37a09a28b
+-   🌐 Portfolio: https://varshav-portfolio.netlify.app
+
+------------------------------------------------------------------------
+
+### ⭐ *Building intelligent solutions by combining Electronics, AI, Embedded Systems, and Software Engineering.*
