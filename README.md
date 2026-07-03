@@ -118,27 +118,26 @@ A final-year Electronics and Communication Engineering student with a solid foun
 
 # 💼 Experience
 
-## Artificial Intelligence Intern --- Internship Studio
+## Quality Control Intern
 
--   Built AI and computer vision applications using Python, OpenCV, PCA
-    and ANN.
+**Kyungshin Motherson Private Limited**
+*June 2025 – July 2025*
 
-## Automotive Electronics Intern --- Kyungshin Industrial Motherson Pvt. Ltd.
+* Performed hands-on **ESD protocol verification**, **MSL handling**, and quality control inspections across automated production lines, ensuring compliance with **ICT** and **FCT** testing standards.
+* Conducted product validation and process efficiency analysis, contributing to improved manufacturing quality, reduced defect escape rates, and enhanced first-pass yield.
+* Gained practical exposure to automotive electronics manufacturing processes, quality assurance methodologies, and production workflow optimization.
 
--   Worked on automotive electronics manufacturing, ICT/FCT testing, PCB
-    inspection and quality control.
+---
 
-------------------------------------------------------------------------
+## Artificial Intelligence Intern (Virtual)
 
-# 📈 GitHub Statistics
+**Internship Studio**
+*February 2026 – March 2026*
 
-``` markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varsha-valavan&show_icons=true&theme=tokyonight&hide_border=true)
+* Designed and implemented a **PCA + ANN** based facial recognition pipeline using **Python**, **OpenCV**, and **Scikit-learn**, trained on a dataset of **450 images across 9 subjects**.
+* Applied Eigenface-based feature extraction, iterative hyperparameter tuning, and feature selection techniques to improve model performance.
+* Achieved **94%+ classification accuracy** while reducing the misclassification rate by approximately **18%** through model optimization and evaluation.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-valavan&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=varsha-valavan&theme=tokyonight&hide_border=true)
-```
 
 ------------------------------------------------------------------------
 
