@@ -5,7 +5,7 @@
 *Passionate about Artificial Intelligence, Embedded Systems, IoT,
 Cybersecurity, Networking, and Software Development.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D2545?style=for-the-badge&logo=netlify&logoColor=white)](https://varshav-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D2545?style=for-the-badge&logo=netlify&logoColor=white)](https://v-varsha-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-v-37a09a28b)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshavalavan@gmail.com)
 
